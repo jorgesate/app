@@ -1,0 +1,1 @@
+{"models": [{"model": "modulos/jetson_inference/models/ssd_mobilenet.onnx", "labels": "modulos/jetson_inference/models/labels.txt", "threshold": 0.4, "cameras": [["realsense_2ir1", "color"],["opencv_cam1", "cam0"]], "draw_filter": ["Cerrada_Abajo"]}], "debug": 0}

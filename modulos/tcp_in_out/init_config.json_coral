@@ -1,0 +1,1 @@
+{"ip": "127.0.0.1", "port": 2000, "labels": ["person", "dog"], "debug": 1, "trigger_in": "1\n", "trigger_out": "1", "trigger_out_reset": "0", "inference_modules": ["zcoral"]}

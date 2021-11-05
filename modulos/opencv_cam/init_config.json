@@ -1,0 +1,1 @@
+{"cam": [{"name": "cam0", "hw_name": "/dev/video0", "config_name": "cam0_config.json", "enable": 1, "preconfig": 0, "width": 800, "height": 600, "fps": 30, "rotate": 180}, {"name": "cam2", "hw_name": "/dev/video1", "config_name": "cam0_config.json", "enable": 1, "preconfig": 0, "width": 800, "height": 600, "fps": 30, "rotate": 180}], "debug": 1}

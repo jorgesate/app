@@ -1,0 +1,1 @@
+{"inf_mods": ["jetson_inference1", "zcoral1"], "labels": ["Abierta_Arriba","person", "Cerrada_Abajo"], "triggers": [], "screen_size": [1920, 1080], "debug": 1}

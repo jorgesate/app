@@ -1,5 +1,5 @@
 # Lint as: python3
-# Copyright 2021 Jose Carlos Provencio
+# Created by 2021 Jose Carlos Provencio
 # Last modifications 2021 Jorge Saez Tejedor
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
