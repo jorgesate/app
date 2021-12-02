@@ -1,1 +1,8 @@
-{"model": {"model": "models/ssd_mobilenet_v2_coco_quant_postprocess_edgetpu.tflite", "labels": "models/coco_labels.txt", "threshold": 0.4, "cameras": [["realsense_2ir1", "color"],["opencv_cam1", "cam0"]], "draw_filter": ["person"]}, "debug": 0}
+{"model": {
+    "model": "models/ssd_mobilenet_v2_coco_quant_postprocess_edgetpu.tflite", 
+    "labels": "models/coco_labels.txt", 
+    "threshold": 0.4, 
+    "cameras": [["realsense_2ir1", "color"],
+                ["opencv_cam1", "cam0"]], 
+    "draw_filter": ["person"]}, 
+    "debug": 0}
